@@ -1,7 +1,7 @@
 # Hi, I'm Loran Ali  
 ### Data Analyst • Statistician • Business Intelligence
 
-I'm a data analyst with a background from the *Statistikprogrammet – Dataanalys & Business Intelligence*
+I'm a data analyst with a background from the *Statistic – Dataanalys & Business Intelligence*
 I enjoy transforming data into clear insights using statistical thinking, machine learning, modern BI tools, and reproducible analytics.
 
 ---
